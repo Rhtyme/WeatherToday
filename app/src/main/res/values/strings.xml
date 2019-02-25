@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">WeatherToday</string>
+
+    <string name="dialog_action_ok">OK</string>
+    <!--<string name="dialog_action_cancel">Cancel</string>-->
+    <string name="dialog_error_title">Sorry</string>
+
+    <string name="error_title">Oops</string>
+    <string name="error_message">There was a problem loading the items, please try again!</string>
+    <string name="error_reload">Reload</string>
+
+    <!-- Weather icons -->
+    <string name="icon_clear_sky_day" translatable="false"></string>
+    <string name="icon_clear_sky_night" translatable="false"></string>
+    <string name="icon_few_clouds_day" translatable="false"></string>
+    <string name="icon_few_clouds_night" translatable="false"></string>
+    <string name="icon_scattered_clouds" translatable="false"></string>
+    <string name="icon_broken_clouds" translatable="false"></string>
+    <string name="icon_shower_rain" translatable="false"></string>
+    <string name="icon_rain_day" translatable="false"></string>
+    <string name="icon_rain_night" translatable="false"></string>
+    <string name="icon_thunderstorm" translatable="false"></string>
+    <string name="icon_snow" translatable="false"></string>
+    <string name="icon_mist" translatable="false"></string>
+    <string name="icon_weather_default" translatable="false"></string>
+    <string name="icon_wind" translatable="false"></string>
+    <string name="icon_humidity" translatable="false"></string>
+    <string name="icon_barometer" translatable="false"></string>
+    <string name="icon_cloudiness" translatable="false"></string>
+    <string name="icon_sunrise" translatable="false"></string>
+    <string name="icon_sunset" translatable="false"></string>
+
+    <!-- Weather conditions label strings -->
+    <string name="wind_label">Wind: %1$s %2$s</string>
+    <string name="rain_label">Rain: %1$s %2$s</string>
+    <string name="snow_label">Snow: %1$s %2$s</string>
+    <string name="humidity_label">Humidity: %1$s%2$s</string>
+    <string name="pressure_label">Pressure: %1$s %2$s</string>
+    <string name="cloudiness_label">Cloudiness: %1$s%2$s</string>
+    <string name="last_update_label">Last update: %s</string>
+    <string name="sunrise_label">Sunrise: %s</string>
+    <string name="sunset_label">Sunset: %s</string>
+    <string name="temperature_morning_title">Morning</string>
+    <string name="temperature_day_title">Day</string>
+    <string name="temperature_evening_title">Evening</string>
+    <string name="temperature_night_title">Night</string>
+    <string name="temperature_and_scale_label" translatable="false">%1$s%2$s</string>
+    <string name="label_temperature">Temperature</string>
+    <string name="label_wind">Wind</string>
+    <string name="label_rain">Rain</string>
+    <string name="label_snow">Snow</string>
+
+
+    <!-- Units and Measurement-->
+    <string name="percent_sign" translatable="false">\u0025</string>
+    <string name="temperature_with_degree" translatable="false">%s\u00B0</string>
+    <string name="pressure_measurement">hPa</string>
+    <string name="wind_speed_meters">m/s</string>
+    <string name="wind_speed_miles">mph</string>
+    <string name="millimetre_label">mm</string>
+
+    <!-- Wind directions -->
+    <string name="wind_direction_north">N</string>
+    <string name="wind_direction_north_east">NE</string>
+    <string name="wind_direction_east">E</string>
+    <string name="wind_direction_south_east">SE</string>
+    <string name="wind_direction_south">S</string>
+    <string name="wind_direction_south_west">SW</string>
+    <string name="wind_direction_west">W</string>
+    <string name="wind_direction_north_west">NW</string>
+
+
+    <string name="temp_unit_celc">°C</string>
+    <string name="temp_unit_far">°F</string>
+
+    <string name="toolbar_menu_refresh">Update</string>
+    <string name="moscow">Moscow</string>
+
+
+</resources>
